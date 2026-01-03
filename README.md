@@ -2,159 +2,196 @@
 
 Saya sedang dalam perjalanan menjadi **Data Engineer** dengan fokus membangun fondasi yang kuat dari fundamental sampai production-ready systems. Repository ini adalah **tracker belajar saya**—bukan portofolio instan, tapi dokumentasi proses belajar yang sistematis dan terukur.
 
-Roadmap ini akan terus berkembang seiring saya belajar. Setiap fase pembelajaran akan divalidasi melalui **checkpoint project** untuk membuktikan skill benar-benar dikuasai sebelum lanjut ke tahap berikutnya.
+Setiap bab pembelajaran akan divalidasi melalui **project** untuk membuktikan skill benar-benar dikuasai sebelum lanjut ke tahap berikutnya.
 
 ---
 
-## 📊 PROGRESS OVERVIEW
+## 📊 PROGRESS TRACKER
 
-### Learning Phases
-
-| Phase | Progress | Status |
-|-------|----------|--------|
-| Linux Fundamentals | 0/10 | ⚪ Not Started |
-| Bash Scripting | 0/10 | ⚪ Not Started |
-| Data Processing | 0/10 | ⚪ Not Started |
-| Pipeline Engineering | 0/10 | ⚪ Not Started |
-| Production Deployment | 0/10 | ⚪ Not Started |
-
-### Checkpoint Projects
-
-| Project | Status |
-|---------|--------|
-| ✅ Checkpoint 1 | ⚪ Not Started |
-| ✅ Checkpoint 2 | ⚪ Not Started |
-| ✅ Checkpoint 3 | ⚪ Not Started |
-| ✅ Checkpoint 4 | ⚪ Not Started |
-| ✅ Checkpoint 5 | ⚪ Not Started |
+| Bab | Progress | Status |
+|-----|----------|--------|
+| [Linux](https://github.com/farisalfatih/linux-practical) | 0/10 |  🔄 Processing |
+| [Bab 2](bab-2/) | 0/10 | ⚪ Not Started |
+| [Bab 3](bab-3/) | 0/10 | ⚪ Not Started |
+| [Bab 4](bab-4/) | 0/10 | ⚪ Not Started |
+| [Bab 5](bab-5/) | 0/10 | ⚪ Not Started |
 
 ---
 
-## 🗺️ LEARNING ROADMAP
+## BAB 1: [Judul Bab]
+📁 **Repository:** [https://github.com/farisalfatih/linux-practical](https://github.com/farisalfatih/linux-practical)
 
-### Phase 1: Linux Fundamentals
-**Status:** ⚪ Not Started  
-**Focus:** [isi sendiri]
+**Status:** Processing 🔄
 
-**Tools:** [isi sendiri]
+### Materi yang Dipelajari
 
----
+| # | Topik | Status |
+|---|-------|--------|
+| 01 | [Topik 1] | ⚪ |
+| 02 | [Topik 2] | ⚪ |
+| 03 | [Topik 3] | ⚪ |
+| 04 | [Topik 4] | ⚪ |
+| 05 | [Topik 5] | ⚪ |
 
-### Phase 2: Bash Scripting
-**Status:** ⚪ Not Started  
-**Focus:** [isi sendiri]
+**Tools:** [tools yang digunakan]
 
-**Tools:** [isi sendiri]
+### Project
 
----
+**[Nama Project]**
 
-### Phase 3: Data Processing
-**Status:** ⚪ Not Started  
-**Focus:** [isi sendiri]
+| Task | Status |
+|------|--------|
+| [Task 1] | ⚪ |
+| [Task 2] | ⚪ |
+| [Task 3] | ⚪ |
+| [Task 4] | ⚪ |
 
-**Tools:** [isi sendiri]
-
----
-
-### Phase 4: Pipeline Engineering
-**Status:** ⚪ Not Started  
-**Focus:** [isi sendiri]
-
-**Tools:** [isi sendiri]
+**Tech Stack:** [tech stack]
 
 ---
 
-### Phase 5: Production Deployment
-**Status:** ⚪ Not Started  
-**Focus:** [isi sendiri]
+## BAB 2: [Judul Bab]
+📁 **Repository:** [bab-2/](bab-2/)
 
-**Tools:** [isi sendiri]
+**Status:** ⚪ Not Started
 
----
+### Materi yang Dipelajari
 
-## ✅ CHECKPOINT PROJECTS
+| # | Topik | Status |
+|---|-------|--------|
+| 01 | [Topik 1] | ⚪ |
+| 02 | [Topik 2] | ⚪ |
+| 03 | [Topik 3] | ⚪ |
+| 04 | [Topik 4] | ⚪ |
+| 05 | [Topik 5] | ⚪ |
 
-### Checkpoint 1: [nama project]
-**Prerequisites:** [isi sendiri]
+**Tools:** [tools yang digunakan]
 
-**Objective:** [isi sendiri]
+### Project
 
-**Tech Stack:** [isi sendiri]
+**[Nama Project]**
 
----
+| Task | Status |
+|------|--------|
+| [Task 1] | ⚪ |
+| [Task 2] | ⚪ |
+| [Task 3] | ⚪ |
+| [Task 4] | ⚪ |
 
-### Checkpoint 2: [nama project]
-**Prerequisites:** [isi sendiri]
-
-**Objective:** [isi sendiri]
-
-**Tech Stack:** [isi sendiri]
-
----
-
-### Checkpoint 3: [nama project]
-**Prerequisites:** [isi sendiri]
-
-**Objective:** [isi sendiri]
-
-**Tech Stack:** [isi sendiri]
+**Tech Stack:** [tech stack]
 
 ---
 
-### Checkpoint 4: [nama project]
-**Prerequisites:** [isi sendiri]
+## BAB 3: [Judul Bab]
+📁 **Repository:** [bab-3/](bab-3/)
 
-**Objective:** [isi sendiri]
+**Status:** ⚪ Not Started
 
-**Tech Stack:** [isi sendiri]
+### Materi yang Dipelajari
+
+| # | Topik | Status |
+|---|-------|--------|
+| 01 | [Topik 1] | ⚪ |
+| 02 | [Topik 2] | ⚪ |
+| 03 | [Topik 3] | ⚪ |
+| 04 | [Topik 4] | ⚪ |
+| 05 | [Topik 5] | ⚪ |
+
+**Tools:** [tools yang digunakan]
+
+### Project
+
+**[Nama Project]**
+
+| Task | Status |
+|------|--------|
+| [Task 1] | ⚪ |
+| [Task 2] | ⚪ |
+| [Task 3] | ⚪ |
+| [Task 4] | ⚪ |
+
+**Tech Stack:** [tech stack]
 
 ---
 
-### Checkpoint 5: [nama project]
-**Prerequisites:** [isi sendiri]
+## BAB 4: [Judul Bab]
+📁 **Repository:** [bab-4/](bab-4/)
 
-**Objective:** [isi sendiri]
+**Status:** ⚪ Not Started
 
-**Tech Stack:** [isi sendiri]
+### Materi yang Dipelajari
+
+| # | Topik | Status |
+|---|-------|--------|
+| 01 | [Topik 1] | ⚪ |
+| 02 | [Topik 2] | ⚪ |
+| 03 | [Topik 3] | ⚪ |
+| 04 | [Topik 4] | ⚪ |
+| 05 | [Topik 5] | ⚪ |
+
+**Tools:** [tools yang digunakan]
+
+### Project
+
+**[Nama Project]**
+
+| Task | Status |
+|------|--------|
+| [Task 1] | ⚪ |
+| [Task 2] | ⚪ |
+| [Task 3] | ⚪ |
+| [Task 4] | ⚪ |
+
+**Tech Stack:** [tech stack]
+
+---
+
+## BAB 5: [Judul Bab]
+📁 **Repository:** [bab-5/](bab-5/)
+
+**Status:** ⚪ Not Started
+
+### Materi yang Dipelajari
+
+| # | Topik | Status |
+|---|-------|--------|
+| 01 | [Topik 1] | ⚪ |
+| 02 | [Topik 2] | ⚪ |
+| 03 | [Topik 3] | ⚪ |
+| 04 | [Topik 4] | ⚪ |
+| 05 | [Topik 5] | ⚪ |
+
+**Tools:** [tools yang digunakan]
+
+### Project
+
+**[Nama Project]**
+
+| Task | Status |
+|------|--------|
+| [Task 1] | ⚪ |
+| [Task 2] | ⚪ |
+| [Task 3] | ⚪ |
+| [Task 4] | ⚪ |
+
+**Tech Stack:** [tech stack]
 
 ---
 
 ## 📝 NOTES
 
-**Why This Roadmap?**  
-[isi sendiri - penjelasan kenapa pilih path ini]
-
-**Learning Philosophy:**  
-[isi sendiri - approach belajar kamu]
-
-**Timeline:**  
-[isi sendiri - target waktu atau flexible]
-
----
-
-## 🔗 REPOSITORY STRUCTURE
-
-```
-learning-data-engineering/
-├── README.md (you are here)
-├── phase-1-linux/
-├── phase-2-bash/
-├── phase-3-data-processing/
-├── phase-4-pipeline/
-├── phase-5-production/
-└── checkpoints/
-    ├── checkpoint-1/
-    ├── checkpoint-2/
-    ├── checkpoint-3/
-    ├── checkpoint-4/
-    └── checkpoint-5/
-```
+Roadmap ini akan terus berkembang seiring proses belajar. Setiap bab bisa bertambah atau berkurang materinya tergantung kebutuhan dan perkembangan.
 
 ---
 
 ## 💬 CONTACT
 
-[LinkedIn] • [Email] • [Website/Blog - opsional]
+[LinkedIn] • [Email] • [Website/Blog]
+
+---
+
+**Last Updated:** [tanggal]  
+**Current Focus:** [bab yang sedang dikerjakan]
 
 ---
 
